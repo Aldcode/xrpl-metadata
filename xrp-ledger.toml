@@ -1,0 +1,9 @@
+[[ACCOUNTS]]
+address = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"  
+website = "https://www.xrinu.org/"
+logo = "https://www.yourshopifysitename.com/.well-known/assets/UltimateLlamaLogo2025.png"
+
+[[CURRENCIES]]
+code = "XRINU"
+issuer = "rBhGj6Hn2MMDe3Jf9toPmqGRxgYbq6RHTR"
+description = "XRINU is a fast, low-cost utility token on the XRP Ledger."
